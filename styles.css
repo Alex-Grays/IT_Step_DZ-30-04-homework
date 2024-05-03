@@ -15,42 +15,42 @@
 /* Status */
 .sc-1 {
   top: 110px;
-  right: 80px;
+  right: 65px;
 }
 
 .sl-1 {
   top: 110px;
-  right: 110px;
+  right: 95px;
 }
 
 .sc-2 {
   top: 140px;
-  right: 80px;
+  right: 65px;
 }
 
 .sl-2 {
   top: 140px;
-  right: 110px;
+  right: 95px;
 }
 
 .sc-3 {
   top: 170px;
-  right: 80px;
+  right: 65px;
 }
 
 .sl-3 {
   top: 170px;
-  right: 110px;
+  right: 95px;
 }
 
 .sc-4 {
   top: 200px;
-  right: 80px;
+  right: 65px;
 }
 
 .sl-4 {
   top: 200px;
-  right: 110px;
+  right: 95px;
 }
 
 /* font-weight */
@@ -61,8 +61,8 @@
 /* Header */
 .navbar {
   background-color: #2179d8;
-  padding-left: 70px;
-  padding-right: 70px;
+  padding-left: 55px;
+  padding-right: 55px;
 }
 
 .navbar-nav {
@@ -154,42 +154,42 @@ button br {
   }
   .sc-1 {
     top: 90px;
-    right: 80px;
+    right: 60px;
   }
 
   .sl-1 {
     top: 90px;
-    right: 110px;
+    right: 90px;
   }
 
   .sc-2 {
     top: 120px;
-    right: 80px;
+    right: 60px;
   }
 
   .sl-2 {
     top: 120px;
-    right: 110px;
+    right: 90px;
   }
 
   .sc-3 {
     top: 150px;
-    right: 80px;
+    right: 60px;
   }
 
   .sl-3 {
     top: 150px;
-    right: 110px;
+    right: 90px;
   }
 
   .sc-4 {
     top: 180px;
-    right: 80px;
+    right: 60px;
   }
 
   .sl-4 {
     top: 180px;
-    right: 110px;
+    right: 90px;
   }
 }
 
@@ -204,6 +204,12 @@ button br {
   .navbar {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  .current-date {
+    padding-right: 120px;
+    margin-top: 12px !important;
+    color: #2179d8;
   }
 
   .sc-1 {
